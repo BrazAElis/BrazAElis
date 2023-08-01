@@ -1,4 +1,4 @@
-### Olá! E sou Ana Elis 👋
+### Olá! Sou Ana Elis 👋
 
 - 🔭 Trabalho com back-end
 - 🌱 Estou aprendendo a programar com Python
